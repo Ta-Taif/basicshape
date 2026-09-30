@@ -1,4 +1,3 @@
-"""Unit tests for the Rectangle class."""
 
 import unittest
 
